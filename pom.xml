@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mavenjob1</name>
-	      <url>http://3.14.1.137:8081/repository/mavenjob1/</url>
+	      <url>http://3.14.1.137:8081/repository/mavenjob1/releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
