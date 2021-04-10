@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>radtac-craft - Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="https://mediaserver.responsesource.com/press-release/26817/with+strapline+CMYK+transparent.png" rel="icon">
 </head>
 </head>
 <body>
@@ -27,7 +27,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="https://mediaserver.responsesource.com/press-release/26817/with+strapline+CMYK+transparent.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		rad-craft, 
@@ -44,7 +44,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Rad-craft - launch new services in software and business focussed IT transformation</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">rad-craft</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="https://pressreleases.responsesource.com/news/74491/radtac-ltd-launch-new-services-in-software-and-business-focussed/">rad-craft</a> </small></p>
 
 </body>
 </html>
