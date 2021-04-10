@@ -27,7 +27,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="https://mediaserver.responsesource.com/press-release/26817/with+strapline+CMYK+transparent.png" alt="" width="100">
+		<img src="https://mediaserver.responsesource.com/press-release/26817/with+strapline+CMYK+transparent.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
 		rad-craft, 
@@ -36,7 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	        0203 638 5040
 		michael.short@radtac.co.uk
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to Radtac-craft</a>
 	</span>
 </div>
 <hr>
